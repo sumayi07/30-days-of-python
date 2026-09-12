@@ -1,1 +1,1 @@
-hof, lambda, list comprehension, and f-strings are the most important concepts so far
+important concepts: hof, lambda, list comprehension, f-strings, and everything after day 17
